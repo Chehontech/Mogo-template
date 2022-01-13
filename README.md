@@ -1,1 +1,1 @@
-# MoGo Template# Mogo-template
+# MoGo Template
